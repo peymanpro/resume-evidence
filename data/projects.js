@@ -109,8 +109,6 @@ const sections = [
         title: "Chilick Sazan Iranian Security Management System",
         image: "images/security-system-homepage.jpg",
       },
-    ],
-  },
 
   {
     title: "Scientific Achievement",
